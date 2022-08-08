@@ -128,7 +128,7 @@ width: 300px;
  }
  
  .btn:hover {
-    border: solid #2BC4AD 1px;
+    border: solid yellowgreen 1px;
     background: #30E3CB;
     background-image: -webkit-linear-gradient(top, #30E3CB, #3D94F6);
     background-image: -moz-linear-gradient(top, #30E3CB, #3D94F6);
